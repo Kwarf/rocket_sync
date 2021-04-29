@@ -12,4 +12,4 @@ repository = "https://github.com/plazma-tool/rocket_sync"
 readme = "README.md"
 
 [dependencies]
-smallvec = "0.4.2"
+smallvec = "1.6"
